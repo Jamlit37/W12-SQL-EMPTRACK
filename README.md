@@ -17,8 +17,8 @@ Then to run it the application you can use
 node server.js
 ```
 
-## Screenshots of Application
-![Capture1](./media/Capture1.PNG)
+## Video link
+https://drive.google.com/file/d/1CoD7-xvkaOUTKWU-37j-e5bfbsP6dvzX/view
  
 ## GitHub
 If you want to vist my [GitHub](https://github.com/Jamlit37) or the [GitHub repository](https://github.com/Jamlit37/W12-SQL-EMPTRACK) click the links
