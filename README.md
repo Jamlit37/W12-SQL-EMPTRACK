@@ -21,4 +21,4 @@ node server.js
 ![Capture1](./media/Capture1.PNG)
  
 ## GitHub
-If you want to vist my [GitHub](https://github.com/Jamlit37) or the [GitHub repository](https://github.com/Jamlit37/W11-EXPRSS-NOTES) click the links
+If you want to vist my [GitHub](https://github.com/Jamlit37) or the [GitHub repository](https://github.com/Jamlit37/W12-SQL-EMPTRACK) click the links
